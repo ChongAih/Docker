@@ -1,0 +1,37 @@
+1. Flask
+	a. Deploy Machine Learning Model using Flask - Flask
+	https://www.youtube.com/watch?v=UbCWoMf80PY
+
+	b. Machine Learning Model Deployment using Flask - Flask, Gunicorn
+	https://www.youtube.com/watch?v=hIq4bVT2ghk
+
+	c. Deploy Your Machine Learning Model on Docker — Part 1, 2
+	https://medium.com/analytics-vidhya/deploy-your-machine-learning-model-on-docker-ee2b931e133c
+	https://medium.com/analytics-vidhya/deploy-your-machine-learning-model-on-docker-part-2-d9795fca6795
+
+2. Docker
+	a. Installation
+	https://www.youtube.com/watch?v=W7BvS942UZA
+	https://docs.docker.com/engine/install/ubuntu/
+
+	b. Convert Python Flask APP to Docker Container|Docker|Python Flask
+	https://www.youtube.com/watch?v=prlixoDIfrc&t=241s
+	https://github.com/self-tuts/python-flask-docker-image
+	https://stackoverflow.com/questions/60086741/docker-so-slow-while-installing-pip-requirements
+
+	c. Docker command without sudo permision
+	https://www.digitalocean.com/community/questions/how-to-fix-docker-got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket
+
+	d. remove none tag images
+	https://stackoverflow.com/questions/51188657/image-is-being-used-by-stopped-container/51189605
+
+	e. Dockerfile pip install error
+	https://stackoverflow.com/questions/22388519/problems-with-pip-install-numpy-runtimeerror-broken-toolchain-cannot-link-a/37145552
+
+	f. pip install is slow in apline base image
+	https://stackoverflow.com/questions/60086741/docker-so-slow-while-installing-pip-requirements
+
+3. Dependency packages check
+	a. Default python packages
+	https://docs.python.org/3/library/index.html
+
