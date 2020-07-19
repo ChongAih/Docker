@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+ prediction: # container name
+#  build: . # build the image
+  image: flaskapp:latest # use existing image
+  ports: # map local host port to docker port
+   - 5000:5000
