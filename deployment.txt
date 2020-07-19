@@ -31,6 +31,9 @@
 	f. pip install is slow in apline base image
 	https://stackoverflow.com/questions/60086741/docker-so-slow-while-installing-pip-requirements
 
+	g. docker-compose yaml file tab issue
+	https://github.com/ruby/psych/issues/136
+
 3. Dependency packages check
 	a. Default python packages
 	https://docs.python.org/3/library/index.html
